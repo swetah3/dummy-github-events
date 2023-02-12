@@ -1,3 +1,1 @@
 ABCD.
-New ABCD .
-ABCD .
